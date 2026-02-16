@@ -19,6 +19,6 @@ It comes pre-installed in the Skyzen Labs DevUSB
 *You will get:*
 - usr@vapour ~ $
 
-*This code can be edited by anyone it is open-source BUT CREDIT MUST BE GIVEN OR ELSE LAWFUL ACTIONS WILL BE TAKEN!*
+*OPEN SOURCE CODE! BY SKYZEN LABS CODE IS OPEN SOURCE*
 
  (c)Vapour 2026. All rights reserved.

@@ -20,5 +20,3 @@ It comes pre-installed in the Skyzen Labs DevUSB
 - usr@vapour ~ $
 
 *OPEN SOURCE CODE! BY SKYZEN LABS CODE IS OPEN SOURCE*
-
- (c)Vapour 2026. All rights reserved.
